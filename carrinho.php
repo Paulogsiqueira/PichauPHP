@@ -7,11 +7,11 @@
     <link rel="stylesheet" type="text/css" media="screen" href="/pichau/api/style.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
             integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <title>Document</title>
+    <title>Pichau</title>
 </head>
 <body class="body__peca">
 <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="inicial.php"><img class="nav__logo" src="https://static.pichau.com.br/logo-pichau-2021.png" alt="Logomarca Pichau"></a>
+        <a class="navbar-brand" href="index.php"><img class="nav__logo" src="https://static.pichau.com.br/logo-pichau-2021.png" alt="Logomarca Pichau"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
